@@ -1,0 +1,9 @@
+"items": [
+       {
+            "number": 1,
+            "string": "first",
+            "boolean": true,
+            "object": {"number": 1},
+            "null": null
+       }
+]
